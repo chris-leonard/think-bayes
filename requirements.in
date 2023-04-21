@@ -1,0 +1,18 @@
+# pydata stack
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+seaborn
+
+# notebooks
+jupyter
+jupytext # converts notebook to python script
+jupyterlab
+jupyterlab-code-formatter
+ipywidgets
+
+# code formatting
+black
+isort
